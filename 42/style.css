@@ -1,0 +1,17 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    padding: 20px;
+}
+.box1 {
+    border: 10px solid blueviolet;
+}
+.box2 {
+    border: 20px solid rgb(61, 43, 226);
+    margin-left: 160px;
+}
+.box3 {
+    border: 30px solid rgb(43, 226, 186);
+    margin-left: 340px;
+}
